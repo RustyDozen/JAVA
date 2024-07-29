@@ -1,5 +1,5 @@
-public class variables{
-    public static void main(String[] args){
+public class variables_2 {
+    public static void main(String[] args) {
         int myNum = 1;
         float myFloatNum = 1.1f;
         char myChar = 'c';

@@ -1,5 +1,5 @@
 
-public class switchs {
+public class Switchs {
 
     public static void main(String[] args) {
         int day = 7;

@@ -1,5 +1,5 @@
 
-public class math {
+public class Math {
 
     public static void main(String[] args) {
         int num1 = 1, num2 = 2, num3 = 4, num4 = -1;

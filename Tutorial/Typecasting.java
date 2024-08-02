@@ -1,4 +1,4 @@
-public class typecasting {
+public class Typecasting {
     public static void main(String[] args) {
         int myInt1 = 1;
         double myDouble1 = myInt1;

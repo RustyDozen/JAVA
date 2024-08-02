@@ -1,4 +1,4 @@
-public class methodparameters {
+public class Methodparameters {
     static void myMethod(String fname, String lname) {
         System.out.println("Hello " + fname + " " + lname);
     }

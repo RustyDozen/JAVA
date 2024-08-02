@@ -2,8 +2,8 @@ public class Classattributes {
     int x = 9, age = 18;
     String fname = "Sk ", lname = "Yeaman";
     public static void main(String[] args) {
-        Attributes myObj1 = new Attributes();
-        Attributes myObj2 = new Attributes();
+        Classattributes myObj1 = new Classattributes();
+        Classattributes myObj2 = new Classattributes();
         myObj2.x = 7;
         System.out.println(myObj1.x);
         System.out.println(myObj2.x);

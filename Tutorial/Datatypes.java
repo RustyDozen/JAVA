@@ -1,4 +1,4 @@
-public class datatypes {
+public class Datatypes {
     public static void main(String[] args) {
         int myNum = 1; // int - -2147483648 to 2147483647
         float myFloat = 1.1f;

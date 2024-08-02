@@ -1,4 +1,4 @@
-public class methodoverloading {
+public class Methodoverloading {
     static int sum(int num1, int num2) {
         return num1 + num2;
     }

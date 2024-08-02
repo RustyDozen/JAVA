@@ -1,4 +1,4 @@
-public class scope {
+public class Scope {
     public static void main(String[] args) {
         // Code here CAN'T use x
         {

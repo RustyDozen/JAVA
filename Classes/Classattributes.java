@@ -1,4 +1,4 @@
-public class Attributes {
+public class Classattributes {
     int x = 9, age = 18;
     String fname = "Sk ", lname = "Yeaman";
     public static void main(String[] args) {

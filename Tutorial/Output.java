@@ -1,4 +1,4 @@
-public class output {
+public class Output {
     public static void main(String[] args) {
         System.out.println("println() adds a new line");
         System.out.print("print() doesn't add new line");

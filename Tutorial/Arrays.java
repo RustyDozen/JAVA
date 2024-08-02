@@ -1,5 +1,5 @@
 
-public class arrays {
+public class Arrays {
 
     public static void main(String[] args) {
         /*String[] cars = {"AE86", "RX7", "R33"};

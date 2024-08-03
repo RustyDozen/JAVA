@@ -6,5 +6,4 @@ class Classmethods2 {
         myCar.fullThrottle();
         myCar.speed(200);
     }
-
 }
